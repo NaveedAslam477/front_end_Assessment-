@@ -1,0 +1,73 @@
+{
+    "contacts": [
+        {
+            "id": "1",
+            "first_name": "Nicholas",
+            "last_name": "Gordon",
+            "image":"http://localhost:4200/assets/images/photo4.png",
+            "designation": "Developer",
+            "bio": "When I first got into the advertising, I was looking for the magical combination that would put website into the top search engine rankings",
+            "primaryEmail": "Nicholas.Gordon@gmail.com",
+            "secondaryEmail":   "Nicholas.Gordons@whiteui.store",
+            "dial": "Nicholas.Gordon@ymsg.com",
+            "meeting": "http://go.betacall.com/meet/j.Nicholas",
+            "phone": "439-582-2565",
+            "mobile": "621-770-1721"
+        },
+        {
+            "id": "2",
+            "first_name": "Bradley",
+            "last_name": "Malone",
+            "image":"http://localhost:4200/assets/images/photo3.png",
+            "designation": "Developer",
+            "bio": "When I first got into the advertising, I was looking for the magical combination that would put website into the top search engine rankings",
+            "primaryEmail": "bradley.malone@gmail.com",
+            "secondaryEmail":   "bradley.malone@whiteui.store",
+            "dial": "bradley.malone@ymsg.com",
+            "meeting": "http://go.betacall.com/meet/j.stevens",
+            "phone": "439-582-2121",
+            "mobile": "621-770-8080"
+        },
+        {
+            "id": "3",
+            "first_name": "Johana",
+            "last_name": "Stevens",
+            "image":"http://localhost:4200/assets/images/photo2.png",
+            "designation": "Developer",
+            "bio": "When I first got into the advertising, I was looking for the magical combination that would put website into the top search engine rankings",
+            "primaryEmail": "johanna.stevens@gmail.com",
+            "secondaryEmail":   "johanna.stevens@whiteui.store",
+            "dial": "j.stevens@ymsg.com",
+            "meeting": "http://go.betacall.com/meet/j.stevens",
+            "phone": "439-582-1578",
+            "mobile": "621-770-7689"
+        }, {
+            "id": "4",
+            "first_name": "Marven",
+            "last_name": "Lambert",
+            "image":"http://localhost:4200/assets/images/photo1.png",
+            "designation": "Developer",
+            "bio": "When I first got into the advertising, I was looking for the magical combination that would put website into the top search engine rankings",
+            "primaryEmail": "marven.lambert@gmail.com",
+            "secondaryEmail":   "marven.lambert@whiteui.store",
+            "dial": "marven.lambert@ymsg.com",
+            "meeting": "http://go.betacall.com/meet/j.stevens",
+            "phone": "439-582-8081",
+            "mobile": "621-770-1516"
+        },
+        {
+            "id": "5",
+            "first_name": "Tersa",
+            "last_name": "Lloyd",
+            "image":"http://localhost:4200/assets/images/photo.png",
+            "designation": "Developer",
+            "bio": "When I first got into the advertising, I was looking for the magical combination that would put website into the top search engine rankings",
+            "primaryEmail": "tersa.Lloyd@gmail.com",
+             "secondaryEmail":   "tersa.Lloyd@whiteui.store",
+            "dial": "tersa.Lloyd@ymsg.com",
+            "meeting": "http://go.betacall.com/meet/j.stevens",
+            "phone": "439-582-4525",
+            "mobile": "621-770-9689"
+        }
+    ]
+}
